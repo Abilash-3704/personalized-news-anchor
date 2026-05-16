@@ -1,0 +1,8 @@
+{
+    "env": {
+       "ANTHROPIC_BASE_URL": "https://api.fuelix.ai",
+       "ANTHROPIC_AUTH_TOKEN": "ak-Tfr1tB5XEWFr5thNI4qEWxqgG63J",
+       "ANTHROPIC_MODEL": "claude-sonnet-4-6"
+    },
+    "hasCompletedOnboarding": true
+ }
