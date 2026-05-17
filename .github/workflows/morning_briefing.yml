@@ -2,7 +2,7 @@ name: Morning Briefing
 
 on:
   schedule:
-    - cron: "0 11 * * *"  # 7am EST / 4am PST — adjust to your timezone
+    - cron: "30 11 * * *"  # 5pm IST (UTC+5:30)
   workflow_dispatch:       # allows manual trigger from GitHub UI
 
 jobs:
